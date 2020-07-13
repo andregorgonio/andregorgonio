@@ -1,16 +1,14 @@
-### Hi there 👋
+## André Gorgonio 👋 
 
-<!--
-**andregorgonio/andregorgonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andregorgonio/)](https://www.linkedin.com/in/andregorgonio/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/andregorgonio)](https://t.me/andregorgonio)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.gorgonio@gmail.com)](mailto:andre.gorgonio@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Sobre
+-  **Trabalhando :** VBA Excel & Power BI :bar_chart: | Business Intelligence & Developer :heart_eyes: 
+-  **Estudando :** Full-Stack PHP :zap: | Full-Stack Javascript	
+-  **Hobbies :** Games :video_game: | Música :headphones: | Esportes :football:
+-  **Pergunte-me sobre :** Planilhas e Dados ... Estarei feliz em ajudar! :v:
+-  **Fun Fact :** Enquanto desenvolvedores amam Café :sweat_smile: Eu sou movido a Água :heart: 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
