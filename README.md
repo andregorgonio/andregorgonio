@@ -6,8 +6,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sobre
--  **Trabalhando :** VBA Excel | Power BI | Python | Tableau Desktop | Flutter :bar_chart: | Business Intelligence & Developer :heart_eyes: 
--  **Estudando :** Flutter :zap: | Python
+-  **Trabalhando :** VBA Excel :desktop_computer: | Power BI :bar_chart: | Python :computer: | Tableau Desktop :bar_chart: | Flutter :phone: | Business Intelligence & Developer :heart_eyes: 
+-  **Estudando :** Flutter :zap: | Python :snake:
 -  **Hobbies :** Games :video_game: | Música :headphones: | Esportes :football:
 -  **Pergunte-me sobre :** Planilhas e Dados ... Estarei feliz em ajudar! :v:
 -  **Fun Fact :** Café Não :sweat_smile: ... Água e Energético :heart: 
