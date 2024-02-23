@@ -6,9 +6,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sobre
--  **Trabalhando :** VBA Excel & Power BI :bar_chart: | Business Intelligence & Developer :heart_eyes: 
--  **Estudando :** Full-Stack PHP :zap: | Full-Stack Javascript	
+-  **Trabalhando :** VBA Excel | Power BI | Python | Tableau Desktop | Flutter :bar_chart: | Business Intelligence & Developer :heart_eyes: 
+-  **Estudando :** Flutter :zap: | Python
 -  **Hobbies :** Games :video_game: | Música :headphones: | Esportes :football:
 -  **Pergunte-me sobre :** Planilhas e Dados ... Estarei feliz em ajudar! :v:
--  **Fun Fact :** Enquanto desenvolvedores amam Café :sweat_smile: Eu sou movido a Água :heart: 
+-  **Fun Fact :** Café Não :sweat_smile: ... Água e Energético :heart: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
